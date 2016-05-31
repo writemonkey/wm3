@@ -1,0 +1,22 @@
+{
+	"id": "click_clack",
+	"name": "Click Clack",
+	"description": "Typing sounds",
+	"help": "",
+	"version": "1.0.0.0",
+	"enabled": true,
+	"releaseDate": "",
+	"main": "click_clack.js",
+	"author": "josip",
+	"url": "",
+	"updates": "",
+	
+
+	"strings": {
+		
+	},
+
+	"options": {
+		"volume": ".7"
+	}
+}
