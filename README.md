@@ -4,6 +4,6 @@ Writemonkey 3 is not open source hence there is no public code. See Issues and W
 
 Plugins code may be added later on.
 
-- [Documentation - work in progress](https://github.com/writemonkey/wm3/wiki/Documentation)  
+- [Documentation](https://github.com/writemonkey/wm3/wiki/Documentation)  
 - [Changelog](https://github.com/writemonkey/wm3/wiki/Changelog)
 
