@@ -1,0 +1,96 @@
+#wordnik-main-container {
+	position: relative;
+	-webkit-box-sizing: border-box;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: calc(100vh - 3.5rem);
+	width: calc(100% - 0px);
+	background-color: transparent;
+	overflow: auto;
+	color: #848484;
+}
+
+#wordnik-reload {
+	position: relative;
+	-webkit-box-sizing: border-box;
+	padding-top: .25rem;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 2.8rem;
+	width: 100%;
+	background-color: transparent;
+	overflow: hidden;
+	text-align: center;
+	font-size: .8rem;
+	line-height: 1.6rem;
+}
+
+#wordnik-definitions {
+	display: none;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	padding: 1em 1em 0em 1em;
+	font-size: 1em;
+	line-height: 1.5em;
+	text-align: center;
+	height: auto;
+	width: 100%;
+	background-color:transparent;
+	overflow: auto;
+}
+
+#wordnik-images {
+	display: none;
+	position: relative;
+	text-align: center;
+	-webkit-box-sizing: border-box;
+	padding: .5em .5em 0em .5em;
+	height: auto;
+	width: 100%;
+	background-color: transparent;
+	overflow: auto;
+}
+
+#wordnik-images img {
+	width: 85% !important;
+	border-radius: 6px;
+}
+
+#wordnik-related {
+	position: relative;
+	-webkit-box-sizing: border-box;
+	padding:.5em 0em .5em .5em;
+	font-size: .8em;
+	font-style: italic;
+	height: auto;
+	width: 100%;
+	background-color: transparent;
+	overflow: auto;
+}
+
+.wordnik-word {
+	margin-right: 10px;
+}
+
+/* .wordnik-definition-word:hover {
+	cursor: pointer;
+	text-decoration: underline;
+} */
+
+.word-cloud-header {
+	color: #848484;
+	border-bottom: 1px dotted;
+	font-size: .8em;
+	padding-bottom: .5em;
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+#wordnik-blank-placeholder {
+	text-align: center;
+	font-size: .8em;
+	padding-top: calc(70vh/2);
+	padding-left: 25px;
+	padding-right: 25px;
+}
