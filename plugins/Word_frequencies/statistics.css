@@ -1,0 +1,80 @@
+#statistics-main-container {
+	position: relative;
+	-webkit-box-sizing: border-box;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: calc(100vh - 3.5rem);
+	width: calc(100% - 0px);
+	background-color: transparent;
+	overflow: auto;
+	color: #848484;
+}
+
+#statistics-reload {
+	position: relative;
+	-webkit-box-sizing: border-box;
+	padding-top: .25rem;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 2.8rem;
+	width: 100%;
+	background-color: transparent;
+	overflow: hidden;
+	text-align: center;
+	font-size: .8rem;
+	line-height: 1.6rem;
+}
+
+.statistics-section {
+	margin-top: 10px;
+	color: #848484;
+}
+
+.statistics-section-header {
+	text-align: center!important;
+	font-size: .6rem;
+	font-style: italic;
+	border-bottom: 1px dotted #848484!important;
+}
+
+.statistics-section-content {
+	padding: 2px;
+	padding-top: .5rem;
+	font-size: 1rem;
+}
+
+.jqx-expander-header-content {
+	padding-top: .3rem!important;
+	display: inline-block!important;
+	float: none!important;
+}
+
+.statistics-table {
+	width: 100%;
+}
+
+.statistics-table td {
+	padding-left: .5rem;
+	font-size: .75rem;
+	text-align: left;
+	vertical-align: middle!important;
+	white-space: nowrap;
+}
+
+.table-bold {
+	font-weight: bold;
+}
+
+.table-fade {
+	opacity: .5;
+	font-style: italic;
+}
+
+.frq-word-click {
+	cursor: pointer;
+}
+
+.wordCloudWord {
+	white-space: nowrap;
+	cursor: pointer;
+}

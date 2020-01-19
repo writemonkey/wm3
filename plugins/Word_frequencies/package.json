@@ -1,0 +1,27 @@
+{
+	"id": "text_statistics",
+	"name": "Statistics",
+	"description": "",
+	"help": "",
+	"version": "1.0.0",
+	"enabled": true,
+	"releaseDate": "",
+	"main": "statistics.js",
+	"css": "statistics.css",
+	"author": "josip",
+	"url": "",
+	"updates": "",
+
+	"dependencies": {
+		"wm": "3.0.9"
+	},
+	
+
+	"strings": {
+		
+	},
+
+	"options": {
+
+	}
+}
