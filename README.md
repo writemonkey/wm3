@@ -7,3 +7,4 @@ Plugins code may be added later on.
 - [Documentation](https://github.com/writemonkey/wm3/wiki/Documentation)  
 - [Changelog](https://github.com/writemonkey/wm3/wiki/Changelog)
 
+_Latest version: January 22nd 2023_
